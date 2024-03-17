@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 *Need to learn ruby this year no matter what
+*Testing github after setup
